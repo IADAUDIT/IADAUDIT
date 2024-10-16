@@ -6,11 +6,11 @@ IADAUDIT: a tool for auditing ads in iOS apps against abusive practices
 
 ## AppCrawler
 
-We used [ipatool-py]([NyaMisty/ipatool-py: IPATool-py: download ipa easily (github.com)](https://github.com/NyaMisty/ipatool-py)) to download apps from the App Store to build our dataset, while using [app-store-scraper]([facundoolano/app-store-scraper: scrape data from the itunes app store (github.com)](https://github.com/facundoolano/app-store-scraper)) to scrape app metadata.
+We used [ipatool-py](https://github.com/NyaMisty/ipatool-py) to download apps from the App Store to build our dataset, while using [app-store-scraper](https://github.com/facundoolano/app-store-scraper) to scrape app metadata.
 
 ## Ad Interaction Simulator
 
-This module is responsible for dynamically running the app, monitoring ad loading, and simulating user interactions with ads to trigger advertised content. We modified a simplified version of the iOS testing tool [Cydios]([SoftWare2022Testing/CydiOS: CydiOS: a model-based testing framework for iOS apps (github.com)](https://github.com/SoftWare2022Testing/CydiOS)). To run this module, you need a jailbroken iPhone. After jailbreaking, install some tweaks in the cydia:
+This module is responsible for dynamically running the app, monitoring ad loading, and simulating user interactions with ads to trigger advertised content. We modified a simplified version of the iOS testing tool [Cydios](https://github.com/SoftWare2022Testing/CydiOS). To run this module, you need a jailbroken iPhone. After jailbreaking, install some tweaks in the cydia:
 
 1. OpenSSH
 2. Substrate Safe mode
