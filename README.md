@@ -37,4 +37,4 @@ This module captures and analyzes network traffic related to in-app advertising 
 
 ---
 
-- ViolatingVideoAdInKidsApp.mp4: This video was from an ad in a children's gaming app, which featured inappropriate content delivered through AdMob, falsely promoting a TV casting app with sexually suggestive material.
+ViolatingVideoAdInKidsApp.mp4: This video was from an ad in a children's gaming app, which featured inappropriate content delivered through AdMob, falsely promoting a TV casting app with sexually suggestive material.
