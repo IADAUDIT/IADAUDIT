@@ -14,9 +14,9 @@ IADAUDIT: a tool for auditing ads in iOS apps against abusive practices
 
 ---
 
-## A Sexually Suggestive Ad Found in Children's app
+## <span style="color:red">A Sexually Suggestive Ad Found in Children's app</span>
 
-This ad can be viewed in this https://youtu.be/ke8wMB6xB0g or [IADAUDIT/ViolatingVideoAdInKidsApp.mp4 at main · IADAUDIT/IADAUDIT (github.com)](https://github.com/IADAUDIT/IADAUDIT/blob/main/ViolatingVideoAdInKidsApp.mp4). It appeared in a children's gaming app, featuring inappropriate content delivered through AdMob, falsely promoting a TV casting app with sexually suggestive material.
+The advertisement, available on https://youtu.be/UROtzDilV1Y or [IADAUDIT/ViolatingVideoAdInKidsApp.mp4 at main · IADAUDIT/IADAUDIT (github.com)](https://github.com/IADAUDIT/IADAUDIT/blob/main/ViolatingVideoAdInKidsApp.mp4), appeared in a children's gaming app. It was delivered through AdMob and promoted a TV casting app with inappropriate, sexually suggestive content. This ad was clearly unsuitable for children. For more details and a deeper analysis of this issue, please refer to our paper.
 
 ## AppCrawler
 
