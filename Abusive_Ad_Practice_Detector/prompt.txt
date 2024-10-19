@@ -1,0 +1,9 @@
+I need you to evaluate images for violations of three guidelines on deceptive or disruptive ads. Learn from provided examples before assessing the target image.
+
+guideline 1: Ads that don't clearly identify themselves to prevent confusion or unintended clicks should include clear terms such as "AD," "advertise," or chinese words like "广告" to ensure transparency.
+guideline 2. Ads that deceive users into clicking (e.g., fake system notifications, false prizes, fake notifications or phone calls)
+guideline 3. Full-screen ads lacking proper close/skip options disrupt user experience
+
+You are required to assess whether the image violates each of the three guidelines with a 'yes' or 'no' for each. After that, provide an explanation of no more than 100 words to justify your answers for all three guidelines.
+
+I will provide you with four cases for study, and you need to analyze the last image and give your answer.
